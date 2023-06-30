@@ -11,7 +11,7 @@ class MyList
     @list << item
   end
 
-  def each
-    @list.each { |item| yield item }
+  def each(&)
+    @list.each(&)
   end
 end
