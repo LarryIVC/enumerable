@@ -128,12 +128,12 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-# 👤 **Larry Villegas**
+👤 **Larry Villegas**
 - GitHub: [@LarryIVC](https://github.com/LarryIVC)
 - Twitter: [@LarryVillegas](https://twitter.com/LarryVillegas)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/larryvillegascostas/)
 
-**Carlos Igreda**
+👤 **Carlos Igreda**
 - GitHub: [@CarlosIgreda](https://github.com/CarlosIgreda)
 - Twitter: [@carlosigreda](https://twitter.com/carlosigreda)
 - LinkedIn: [@carlosigreda](https://www.linkedin.com/in/carlosigreda/)
