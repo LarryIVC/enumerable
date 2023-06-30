@@ -31,7 +31,7 @@
 
 # 📖 [Ruby Enumerable] <a name="about-project"></a>
 
-**Ruby Enumerable** is a project about to understand how to work whit a ruby language project, amking enumerable.
+**Ruby Enumerable** is a project about understanding how to work whit a ruby language project, making enumerable.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -136,7 +136,7 @@ Example:
 👤 **Carlos Igreda**
 - GitHub: [@CarlosIgreda](https://github.com/CarlosIgreda)
 - Twitter: [@carlosigreda](https://twitter.com/carlosigreda)
-- LinkedIn: [@carlosigreda](https://www.linkedin.com/in/carlosigreda/)
+- LinkedIn: [@carlosigreda](https://www.linkedin.com/in/carlosigreda)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
