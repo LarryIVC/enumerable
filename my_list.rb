@@ -11,7 +11,7 @@ class MyList
     @list << item
   end
 
-  def each(&)
-    @list.each(&)
+  def each(&block)
+    @list.each(&block)
   end
 end
